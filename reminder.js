@@ -10,4 +10,4 @@ setTimeout(function() {
 	</html>
 	`
 	})()
-}, 300);
+}, 1200000);
